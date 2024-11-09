@@ -44,4 +44,7 @@ We already have the emailNotification as the consumer service so we can check th
 ```bash
 2024-11-09T17:34:45.801Z  INFO 98952 --- [ntainer#0-0-C-1] o.e.handler.ProductCreatedEventHandler   : Received a new event: iPhone 11
 2024-11-09T17:34:48.188Z  INFO 98952 --- [ntainer#0-0-C-1] o.e.handler.ProductCreatedEventHandler   : Received a new event: iPhone 11
-```# kafka
+```
+
+This video was quite good for creating the multi module application:
+https://www.youtube.com/watch?v=XqC1zeFdxMs
